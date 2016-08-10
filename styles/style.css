@@ -1,13 +1,16 @@
-td {
-	width: 50px;
-	height: 50px;
-	content: ' ';
-	background-color: #fff;
-	border: 10px solid #000;
+table {
+	border-collapse: collapse;
+  border: 12px solid white;
+  margin-top: -12px;
+  margin-left: -10px;
 }
 
-.DoubleRow {
-	height: 100px;
+td {
+	content: ' ';
+	width: 90px;
+	height: 50px;
+	background-color: #fff;
+	border: 10px solid #000;
 }
 
 .yellow {
@@ -18,6 +21,18 @@ td {
 	background-color: red;
 }
 
-.invisible {
-	display: none;
+.black {
+	background-color: black;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.doublewidth {
+	width: 100px;
+}
+
+.doubleheight {
+	height: 100px;
 }
