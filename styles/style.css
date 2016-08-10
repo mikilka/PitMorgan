@@ -17,3 +17,7 @@ td {
 .red {
 	background-color: red;
 }
+
+.invisible {
+	display: none;
+}
