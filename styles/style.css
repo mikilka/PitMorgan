@@ -1,0 +1,19 @@
+td {
+	width: 50px;
+	height: 50px;
+	content: ' ';
+	background-color: #fff;
+	border: 10px solid #000;
+}
+
+.DoubleRow {
+	height: 100px;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
